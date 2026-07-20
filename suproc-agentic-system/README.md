@@ -1,7 +1,4 @@
 # SUPROC - Local Agentic Search, Matching & Verification System
-> **Final Round Assignment Submission**
-> **Built by Senior AI Engineer | Enterprise-Grade Architecture**
-
 ---
 
 ## Executive Summary
