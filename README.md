@@ -1,5 +1,4 @@
 # SUPROC - Local Agentic Search, Matching & Verification System
-> **Final Round Assignment Submission**
 
 ---
 
